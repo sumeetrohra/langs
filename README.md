@@ -7,4 +7,4 @@ Tech stack
 - Nativebase.io
 
 Submission explainer video:
-https://www.loom.com/share/8ec8401a3a7a4f048285e2384ff3a7ba
+![explainer vid](https://www.loom.com/share/8ec8401a3a7a4f048285e2384ff3a7ba)
